@@ -10,3 +10,4 @@ one
 test
 more test
 testgit dev add
+test dev
